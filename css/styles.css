@@ -43,3 +43,12 @@ input:focus{
     display: flex;
     align-items: center;
 }
+
+#register-banner h1{
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+    color: #fff;
+    word-spacing: 50rem;
+}
+
+/*Formulario CSS*/

@@ -23,4 +23,23 @@ input:focus{
 #register-container{
     max-width: 900px;
     min-height: 80vh;
+    margin: 2rem auto;
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+#register-banner{
+    background: url("../img/bg-form.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+}
+
+#banner-layer{
+    background-color: rgba(25, 11, 122, 0.7);
+    height: 100%;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
 }

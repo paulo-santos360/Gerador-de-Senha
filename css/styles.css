@@ -19,3 +19,8 @@ html{
 input:focus{
     outline: none;
 }
+
+#register-container{
+    max-width: 900px;
+    min-height: 80vh;
+}

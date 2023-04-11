@@ -92,4 +92,27 @@ input:focus {
 
 #generate-password{
     font-weight: bolder;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+#generate-password:hover{
+    color: #0097ff;
+}
+
+#registe-form #generated-password{
+    border: 1px solid #0099ff;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 0.4rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 1rem;
+    display: none;
+}
+/* Vai usar JS para aparecer */
+#register-form #generate-password p{
+    color: #81d340;
+    margin-bottom: 0.5rem;
 }

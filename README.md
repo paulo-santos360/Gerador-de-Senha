@@ -2,11 +2,11 @@
 
 Bem-vindo ao repositório do Gerador de Senha, uma ferramenta que permite criar senhas seguras de forma simples! :closed_lock_with_key:
 
-![Imagem do Gerador de Senha](gerador.png)
-
 ## :rocket: Sobre o Projeto
 
 O Gerador de Senha é uma aplicação web que facilita a criação de senhas seguras. Você pode personalizar a senha de acordo com suas necessidades, escolhendo o comprimento e os tipos de caracteres desejados. Mantenha suas contas online protegidas com senhas fortes! :shield::computer:
+
+![Imagem do Gerador de Senha](gerador.png)
 
 ## :computer: Tecnologias Utilizadas
 
